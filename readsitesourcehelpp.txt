@@ -4,6 +4,14 @@ https://codepen.io/
 
 https://css-tricks.com/
 
+check what tags can be used for browsers:
+https://caniuse.com/ 
+
+validator for html
+https://validator.w3.org/
+
+https://www.w3schools.com/
+
 Tools:
 - Sublime text
 - Node JS
