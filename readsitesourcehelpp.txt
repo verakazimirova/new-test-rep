@@ -1,0 +1,15 @@
+https://jsfiddle.net/vc265oxe/
+
+https://codepen.io/
+
+https://css-tricks.com/
+
+Tools:
+- Sublime text
+- Node JS
+- Browser Sync
+- Git desktop
+
+run BrowserSync
+- Open Node JS CMD
+- use command c:\MyProjects\new-test-rep\site>browser-sync start --server --directory --files "*"
